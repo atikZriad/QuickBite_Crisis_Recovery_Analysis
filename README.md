@@ -1,4 +1,5 @@
 # 🍽️ QuickBite Crisis Recovery Analysis  
+![Dashboard Preview](Dashboard_Screenshots/Home_Dashboard.png)
 **Domain:** Food Delivery & Consumer Analytics  
 **Function:** Crisis Recovery & Business Strategy  
 **Tool Used:** Power BI  
